@@ -1,0 +1,26 @@
+{
+    "name": "LanLimp",
+    "version": "1.0.0",
+    "description": "",
+    "title": "LanLimp documentation",
+    "url": "https://apilanlimp.wiperagency.com/api/v1",
+    "header": {
+        "title": "Introducciòn",
+        "filename": "header.md"
+    },
+    "footer": {
+        "title": "MIT License",
+        "filename": "footer.md"
+    },
+    "order": [
+        "Auth",
+        "Stores",
+        "Products",
+        "Shares",
+        "Orders"
+    ],
+    "template": {
+        "withCompare": true,
+        "withGenerator": true
+    }
+}

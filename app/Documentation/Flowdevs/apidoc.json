@@ -1,0 +1,24 @@
+{
+    "name": "Ecommerce",
+    "version": "1.0.0",
+    "description": "",
+    "title": "Ecommerce Documentation",
+    "url": "http://flowdevs.com/api/v1",
+    "footer": {
+        "title": "MIT License",
+        "filename": "footer.md"
+    },
+    "order": [
+        "Commons",
+        "Auth",
+        "Stores",
+        "Products",
+        "Shares",
+        "Orders"
+    ],
+    "template": {
+        "withCompare": true,
+        "withGenerator": true,
+        "forceLanguage": "en"
+    }
+}

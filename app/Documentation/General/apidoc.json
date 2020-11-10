@@ -1,0 +1,21 @@
+{
+    "name": "Ecommerce",
+    "version": "1.0.0",
+    "description": "",
+    "title": "Ecommerce Documentation",
+    "url": "http://domain.com/api/v1",
+    "footer": {
+        "title": "MIT License",
+        "filename": "footer.md"
+    },
+    "order": [
+        "Auth",
+        "Products",
+        "Orders"
+    ],
+    "template": {
+        "withCompare": true,
+        "withGenerator": true,
+        "forceLanguage": "en"
+    }
+}
